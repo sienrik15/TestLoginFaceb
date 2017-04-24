@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestLogin</string>
+    <string name="facebook_app_id">1297747706968111</string>
+    <string name="fb_login_protocol_scheme">fb1297747706968111</string>
+    <string name="onCancel">cancelaste inicio sesion</string>
+    <string name="onError">Ocurrion algun error</string>
+</resources>
